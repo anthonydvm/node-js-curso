@@ -23,7 +23,7 @@ if(app.get('env') === 'development'){
     iniciDebug('Morgan esta habilitado')
 }
 
-//app.use(logger);
+//app.use(logger); a
 
 
 
